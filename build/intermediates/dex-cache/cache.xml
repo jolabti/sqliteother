@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/var/www/SQLiteOther/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_2b701814b9c4640a988cd8b6b1974cd6abf3bd01/classes.dex" />
+    </item>
+    <item
+        jar="/home/jolabti/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_69eac3cc9d22a0057c23b107e95c1e454f836aa6/classes.dex" />
+    </item>
+    <item
+        jar="/var/www/SQLiteOther/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_de4d9d6e11a9ab81e95e5c34556d98b5dfb2fc2d/classes.dex" />
+    </item>
+    <item
+        jar="/var/www/SQLiteOther/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_a1dc779df512b583e10119b0956456c711579225/classes.dex" />
+    </item>
+    <item
+        jar="/var/www/SQLiteOther/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_0176d0916e356c353eeb773a3c9eb37e9c9de861/classes.dex" />
+    </item>
+    <item
+        jar="/var/www/SQLiteOther/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_44fce5ce26cb08b185ac8966b8e62688f723f4cf/classes.dex" />
+    </item>
+    <item
+        jar="/var/www/SQLiteOther/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_94c1cb51d80d2f58a4112827f244fafbfc0bc741/classes.dex" />
+    </item>
+    <item
+        jar="/var/www/SQLiteOther/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_83df7e67159e4cf7d198a34b6cab24225181d1eb/classes.dex" />
+    </item>
+    <item
+        jar="/var/www/SQLiteOther/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_7e91ede2e6f5bb1e44446ebe7991279c34248ff6/classes.dex" />
+    </item>
+    <item
+        jar="/var/www/SQLiteOther/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_d87966e69227f4d341ee2b1c5daec179ed7f531a/classes.dex" />
+    </item>
+    <item
+        jar="/var/www/SQLiteOther/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="cdee6151e8d64cc513173864d4cce3878faf89f5">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_449993a1d5dd0890f1cebe8e3d67f6be7d3c0f5b/classes.dex" />
+    </item>
+    <item
+        jar="/var/www/SQLiteOther/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0068a9a6ce9d60cd600d53762f816b67f1b0a158">
+        <dex dex="/var/www/SQLiteOther/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_72b76cb9ef4071753aa3046654c3cfddafe38abc/classes.dex" />
+    </item>
+
+</items>
